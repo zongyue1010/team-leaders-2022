@@ -22,7 +22,7 @@ We'd like to welcome you to Hackin' Omics 2022! We hope you are as excited as we
 - [ ] Fork this repository.
 - [ ] Review the [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
 - [ ] Review some of the helpful resources we listed in the resources [README](https://github.com/u-brite/team-leaders-2022/blob/main/resources/README.md).
-- [ ] Create a GitHub repository for your hackathon team on our U-BRITE organization.
+- [ ] Create a GitHub repository for your hackathon team on our **U-BRITE organization** (not on your GitHub profile).
     - [ ] Use the ["team-repo"](https://github.com/u-brite/team-repo-template) template and update with your team's information.
     - [ ] Refine your project proposal based on the feedback given (if there was feedback).
 - [ ] Attend workshops to become ready for the hackathon.
