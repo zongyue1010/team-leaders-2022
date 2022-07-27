@@ -19,6 +19,8 @@ Your main job is to identify key project skill requisites, acquire the datasets 
 
 The below links will be helpful with developing your projects and getting started on GitHub. 
 
+We encourage all team leaders to also apply for the [GitHub Student Developer Pack](https://education.github.com/students).
+
 ### Helpful Articles
 
 - [Ten Simple Rules for Using Public Data for Your Research](https://github.com/u-brite/team-leaders-2022/blob/main/resources/ten-simple-rules-for-using-public-data-for-your-research.pdf.pdf)
