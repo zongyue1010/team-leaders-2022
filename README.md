@@ -41,7 +41,7 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 | Team Leader | Team Name | Completed Checklist (yes or no) |
 |-------------|-----------|---------------------------------|
 |Tarun Mamidi |   canAI   |            yes                  |
-|             |           |                                 |
+|Rahul Sharma |MedvAIsor  | Yes                             |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
