@@ -1,5 +1,5 @@
 <p align="center">
-  <img 
+  <img
     width="300"
     height="300"
     src="logos/hackinomics_logo_green.png"
@@ -29,7 +29,7 @@ We'd like to welcome you to Hackin' Omics 2022! We hope you are as excited as we
     - [ ] Computing Resources Workshop: An Introduction to Jetstream2, HPC, and Git/GitHub | Register at https://tinyurl.com/mubxwc8f | July 27 at 2PM
     - [ ] U-BRITE Bootcamp: Learn how to use PAGER & SEAS for multi-omics downstream analysis by Dr. Jake Chen | Register at https://tinyurl.com/yxx23fph | July 29 at 10AM
 - [ ] Ensure any datasets that need to be dowloaded have been mentioned by communicating with Dr. Blake Joyce via slack (His slack is `@Blake Joyce (UAB Research Computing)` or tagging the technical committee on GitHub using `@u-brite/technical-committee`.
-  - [ ] Submit this [form](https://airtable.com/shrnpxEogyAzlRWGX) to submit any large dataset that isn't available via an API or is too large to be hosted on a laptop. 
+  - [ ] Submit this [form](https://airtable.com/shrnpxEogyAzlRWGX) to submit any large dataset that isn't available via an API or is too large to be hosted on a laptop.
 - [ ] Complete the above tasks and add your name and project name to the Team Leader Readiness table. Submit a pull request and assign `@u-brite/hackin-omics-co-chairs`.
 
 ## Help
@@ -40,7 +40,7 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 
 | Team Leader | Team Name | Completed Checklist (yes or no) |
 |-------------|-----------|---------------------------------|
-|             |           |                                 |
+|Tarun Mamidi |   canAI   |            yes                  |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
