@@ -43,7 +43,7 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 |Tarun Mamidi |   canAI   |            yes                  |
 |Rahul Sharma |MedvAIsor  | Yes                             |
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
-|             |           |                                 |
+|Akhil Pampana| HeriVar   | Yes                             |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
