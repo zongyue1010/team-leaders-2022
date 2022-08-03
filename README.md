@@ -55,8 +55,6 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 |-------------|-----------|---------------------------------|
 |Tarun Mamidi |   canAI   |            yes                  |
 |Rahul Sharma |MedvAIsor  | Yes                             |
-|Anton Orlichenko	|ImageNomeR	|Yes                          |
-|Emily Page	|ReproCanAtlas	|yes                            |
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
 |Anton Orlichenko | ImageNomeR |    Yes                     |
 |Akhil Pampana| HeriVar   | Yes                             |
