@@ -8,12 +8,15 @@ Your main job is to identify key project skill requisites, acquire the datasets 
 
 - Propose a project proposal or select to take the lead on a proposal.
 - Select datasets that fits the scope of the hackathon.
-- Coordinate with our technical team, [Dr. Blake Joyce](), to ensure any data that needs dowloading can be done prior to the hackathon.
+- Coordinate with our datasets manager, Zhandos Sembay via slack (His slack is `@Zhandos Sembay`, or tagging the technical committee on GitHub using `@u-brite/technical-committee`, to ensure any data that needs dowloading can be done prior to the hackathon.
 - Prepare for the hackathon by ensuring any necessary software is installed, attending training sessions, ensuring technical readiness, and working with organizers to bring in necessary public data sets or software tools.
 - Divide up roles for the team if you want: data cleaning, programming, informatics approach design, data analysis, technical writing, scientific hypotheses generation, etc.
 - Coordinate tasks and different roles to be performed by different team members.
 - Help team members achieve their specific tasks when or if they have troubles.
 - Consider finding a mentor if you think you need help with your project. Message or ping @tkmamidi or @sdhutchins for help securing a mentor.
+- Team members were assigned to your team based on their interests.
+- Some team members will not have a ton of experience. Use paired programming and assign them to tasks where they have strengths. Give them opportunities to also learn how to program and use new technologies with guidance.
+- If you think your project may result in a publication, remember to discuss authorship and responsibilities up front. Nothing is worse than doing a bunch of work on a team and not being included as an author.
 
 ## Helpful Links
 
