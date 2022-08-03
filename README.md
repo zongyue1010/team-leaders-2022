@@ -45,7 +45,7 @@ If you need help, please view the [discussions tab](https://github.com/u-brite/t
 |Arun Boddapati| Team Vecna-scDehasheR|Yes                  |
 |Anton Orlichenko | ImageNomeR |    Yes                     |
 |Akhil Pampana| HeriVar   | Yes                             |
-|             |           |                                 |
+|  Emily Page |ReproCanAtlas|      yes                           |
 |             |           |                                 |
 |             |           |                                 |
 |             |           |                                 |
